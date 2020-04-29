@@ -1,6 +1,6 @@
 # CV
 
-Cover Letter
+Curriculam vitae
 
 I made a profile of a marvel superhero character ( Captain America )
 
